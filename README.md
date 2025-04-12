@@ -1,7 +1,7 @@
 # Hidrología prueba
 Se trata de hidrología.
 ## Estructura del proyecto
-Esto es una prueba de lo que se puede hacer con github pages.
+Esto es una prueba de lo que se puede hacer.
 ```
 ├───extras
 ├───input
