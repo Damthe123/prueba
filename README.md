@@ -8,9 +8,10 @@ Se trata de hidrología.
 ├───extras
 ├───input
 │   ├───01_SENAMHI
-│   ├───02_ANA
+│   └───02_ANA
 ├───legacy
 ├───output
 │   └───todos_anual
 └───tmp
 ```
+Esto es una prueba de lo que se puede hacer con github pages.
